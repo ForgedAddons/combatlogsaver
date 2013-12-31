@@ -1,0 +1,12 @@
+## Interface: 40000.1
+## Title: combatlogsaver
+## Notes: Smart CombatLog saver basen on Alkis' work, written by Drauer
+## Author: Drauer
+## Version: 40000.1
+## SavedVariables: clsaverDB
+## X-Category: Combat
+## X-Credits: Alkis Evlogimenos (http://code.google.com/p/clsaver/)
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+combatlogsaver.lua
